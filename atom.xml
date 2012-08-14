@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Jeremy Manoto]]></title>
-  <link href="http://jmanoto.github.com/atom.xml" rel="self"/>
-  <link href="http://jmanoto.github.com/"/>
-  <updated>2012-08-14T19:53:43+10:00</updated>
-  <id>http://jmanoto.github.com/</id>
+  <link href="http://jmanoto.github.com/blog/atom.xml" rel="self"/>
+  <link href="http://jmanoto.github.com/blog/"/>
+  <updated>2012-08-14T22:57:11+10:00</updated>
+  <id>http://jmanoto.github.com/blog/</id>
   <author>
     <name><![CDATA[Jeremy Manoto]]></name>
     
