@@ -4,7 +4,7 @@
   <title><![CDATA[Jeremy Manoto]]></title>
   <link href="http://jmanoto.github.com/atom.xml" rel="self"/>
   <link href="http://jmanoto.github.com/"/>
-  <updated>2012-08-16T23:34:14+10:00</updated>
+  <updated>2012-08-16T23:48:27+10:00</updated>
   <id>http://jmanoto.github.com/</id>
   <author>
     <name><![CDATA[Jeremy Manoto]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New Macbook Pro Retina]]></title>
+    <link href="http://jmanoto.github.com/blog/2012/08/16/new-macbook-pro-retina/"/>
+    <updated>2012-08-16T23:44:00+10:00</updated>
+    <id>http://jmanoto.github.com/blog/2012/08/16/new-macbook-pro-retina</id>
+    <content type="html"><![CDATA[<p>For the past week I have been setting up my new Macbook Pro Retina and loving every aspect of it. Rebooting is lightning quick, so fast that I don&#8217;t feel I have time to get distracted - a good thing! The display is super hi-res (I run at the equivalent 1920x1200 resolution - a must for developers I think) and I find myself critiquing apps/websites that aren&#8217;t retina enabled.</p>
+
+<p>Now looking for a suitable sleeve/case/bag to carry it around in. Any recommendations?</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Making the leap]]></title>
